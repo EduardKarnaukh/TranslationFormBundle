@@ -1,5 +1,5 @@
 {
-    "name": "a2lix/translation-form-bundle",
+    "name": "eduardkarnaukh/translation-form-bundle",
     "type": "symfony-bundle",
     "description": "Translate your doctrine objects easily with some helpers",
     "keywords": [
